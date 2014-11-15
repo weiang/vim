@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/home/weiang/windows/blog/weiang.github.com/_posts'
+let g:netrw_dirhist_2='/home/weiang/documents/libgksu-2.0.12/docs'
+let g:netrw_dirhist_3='/media/weiang/Data/src/network analysis/matlab_functions/lib'
